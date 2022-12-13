@@ -15,6 +15,7 @@ public class Vehicle {
 		}
 	}
 	public class Byke{
+		
 		void feauters(String Company,int cost,String speed) {
 			System.out.println("Bike details are:");
 			System.out.println("The company of bike is:"+Company);
