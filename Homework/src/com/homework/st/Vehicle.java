@@ -7,6 +7,7 @@ public class Vehicle {
 	public class Car{
 		void feauters() {
 			
+			
 			System.out.println("Car details are:");
 			System.out.println("The number of wheels of a car is:"+noOfWheels);
 			System.out.println("The fuel of car is:"+fuel);
@@ -14,6 +15,7 @@ public class Vehicle {
 		}
 	}
 	public class Byke{
+		
 		void feauters(String Company,int cost,String speed) {
 			System.out.println("Bike details are:");
 			System.out.println("The company of bike is:"+Company);
